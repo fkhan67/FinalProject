@@ -10,6 +10,7 @@
     <h1>Welcome to the Web Application</h1>
 
     <!-- Add HTML content and include JavaScript files as needed -->
+    <!-- For example, you can add forms, tables, etc. -->
 
     <script src="js/script.js"></script>
 </body>
